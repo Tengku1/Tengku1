@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi Semuanya !
+# Hi Semuanya , Saya Tengku !
 
 Perkenalkan nama saya **Muhammad Tengku Rizky**.\
 Saya seorang **Freelancer Fullstack Web Developer**.\
@@ -25,3 +25,10 @@ Saya memiliki beberapa pengalaman dalam membuat website, antara lain :
 - Website Managemen Pegawai.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tengku-tengku-4a919416b/) ku ya.
+
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tengku1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tengku1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
