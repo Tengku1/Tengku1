@@ -22,6 +22,6 @@ Saya memiliki beberapa pengalaman dalam membuat website, antara lain :
 - Website Antrian Rumah Sakit.
 - Website Pariwisata dengan fitur Google Map.
 - Website E-commerce.
-- Website Managemen Pegawai.\
+- Website Managemen Pegawai.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tengku-tengku-4a919416b/) ku ya.
