@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 # Hi Semuanya !
 
 Perkenalkan nama saya **Muhammad Tengku Rizky**.\
-Saya seorang **Freelancer** junior web developer.
+Saya seorang **Freelancer** junior web developer.\
 Saat ini saya sedang menempuh semester 6 di **INSTIKI**. Yaitu singkatan dari **Institut Bisnis dan Teknologi Indonesia**, yang terletak di **Bali**.
