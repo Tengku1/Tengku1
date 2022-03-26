@@ -24,6 +24,9 @@ Saya memiliki beberapa pengalaman dalam membuat website, antara lain :
 - Website E-commerce.
 - Website Managemen Pegawai.
 
+Sertifikat :
+- https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=467
+
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tengku-tengku-4a919416b/) ku ya.
 
 <p align="left">
