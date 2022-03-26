@@ -27,7 +27,7 @@ Saya memiliki beberapa pengalaman dalam membuat website, antara lain :
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tengku-tengku-4a919416b/) ku ya.
 
 <p align="left">
-<a href="https://github.com/gilangadhan">
+<a href="https://github.com/Tengku1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tengku1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tengku1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
