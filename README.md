@@ -25,7 +25,7 @@ Saya memiliki beberapa pengalaman dalam membuat website, antara lain :
 - Website Managemen Pegawai.
 
 Sertifikat :
-- https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=467
+- <a href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=467">IT Specialist Database - Novice</a>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tengku-tengku-4a919416b/) ku ya.
 
