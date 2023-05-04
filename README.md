@@ -27,9 +27,9 @@ Certificate :
 - <a href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=467">IT Specialist Database - Novice</a>
 - <a href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=447">IC3 GS6 Level 1<a/>
   
-## 🔥 Technologies
+<h3><b>Technologies</b></h3>
 
-### Language :
+<h4><b>Language</b></h4>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -37,6 +37,20 @@ Certificate :
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  
+<h4><b>Framework</b></h4>
+
+![Express JS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+<h4><b>Technologies</b></h4>
+
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 Follow me on my account if you want to know more about me 
   - [Linkedin](https://www.linkedin.com/in/tengku-tengku-4a919416b/)
