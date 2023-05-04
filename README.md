@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Muhammad Tengku Rizky**.\
 Saya seorang **Freelancer Fullstack Web Developer**.\
-Saat ini saya sedang menempuh semester 6 di **INSTIKI**. Yaitu singkatan dari **Institut Bisnis dan Teknologi Indonesia**, yang terletak di **Bali**.\
+Saat ini saya sedang menempuh semester 7 di **INSTIKI**. Yaitu singkatan dari **Institut Bisnis dan Teknologi Indonesia (INSTIKI)**, yang terletak di **Bali**.\
 Saya memiliki beberapa pengalaman dalam membuat website, antara lain :
 - Website Antrian Rumah Sakit.
 - Website Pariwisata dengan fitur Google Map.
