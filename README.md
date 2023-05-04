@@ -13,7 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi, My name is <b>Tengku</b> 👋</h1>
+<h1><center>Hi, My name is <b>Tengku</b> 👋</center></h1>
+
+<p align="center">
+<br>
+<a href="https://instagram.com/tengku_dev?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/tengku-tengku-4a919416b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:anountengku@gmail.com?subject=Hai%20Tengku"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCs7lb6o067vuqMbszIvrIow"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
 
 I'm a **Back End Developer**.\
 I am someone who always wants to learn new things related to technological developments and want to be part of those who bring new technologies to the world.
@@ -58,11 +66,6 @@ Certificate :
   
 <h3><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=Tengku1&theme=juicyfresh&no-bg=true" />
-
-Follow me on my account if you want to know more about me :
-  - [Linkedin](https://www.linkedin.com/in/tengku-tengku-4a919416b/)
-  - [Instagram](https://instagram.com/tengku_dev?igshid=ZDdkNTZiNTM=)
-  - [Youtube](https://www.youtube.com/channel/UCs7lb6o067vuqMbszIvrIow)
 
 <p align="center">
 <a href="https://github.com/Tengku1">
