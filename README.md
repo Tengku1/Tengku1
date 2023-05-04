@@ -23,7 +23,8 @@ Saya memiliki beberapa pengalaman dalam membuat website, antara lain :
 - Website Pariwisata dengan fitur Google Map.
 - Website E-commerce.
 - Website Managemen Pegawai.
-- <a href="https://play.google.com/store/apps/details?id=com.xplorinhub.app">Sistem Back end untuk Hotel pada aplikasi Xplorin</a>
+- <a href="https://play.google.com/store/apps/details?id=com.xplorinhub.app">Sistem Back End untuk Hotel pada aplikasi Xplorin</a>
+- <a href="https://play.google.com/store/apps/details?id=com.crux.tokoku">Sistem Back End untuk aplikasi Jawara Kasir</a>
 
 Sertifikat :
 - <a href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=467">IT Specialist Database - Novice</a>
