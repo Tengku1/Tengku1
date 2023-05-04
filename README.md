@@ -27,6 +27,7 @@ Saya memiliki beberapa pengalaman dalam membuat website, antara lain :
 
 Sertifikat :
 - <a href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=467">IT Specialist Database - Novice</a>
+- <a href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=447">IC3 GS6 Level 1<a/>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tengku-tengku-4a919416b/) ku ya.
 
