@@ -23,6 +23,7 @@ Saya memiliki beberapa pengalaman dalam membuat website, antara lain :
 - Website Pariwisata dengan fitur Google Map.
 - Website E-commerce.
 - Website Managemen Pegawai.
+- Sistem Back end untuk Hotel pada aplikasi Xplorin
 
 Sertifikat :
 - <a href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=467">IT Specialist Database - Novice</a>
