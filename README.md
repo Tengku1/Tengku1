@@ -13,24 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi Semuanya , Saya Tengku !
+# Hi, My name is **Tengku** !
 
-Perkenalkan nama saya **Muhammad Tengku Rizky**.\
-Saya seorang **Freelancer Fullstack Web Developer**.\
-Saat ini saya sedang menempuh semester 7 di **INSTIKI**. Yaitu singkatan dari **Institut Bisnis dan Teknologi Indonesia (INSTIKI)**, yang terletak di **Bali**.\
-Saya memiliki beberapa pengalaman dalam membuat website, antara lain :
-- Website Antrian Rumah Sakit.
-- Website Pariwisata dengan fitur Google Map.
-- Website E-commerce.
-- Website Managemen Pegawai.
-- <a href="https://play.google.com/store/apps/details?id=com.xplorinhub.app">Sistem Back End untuk Hotel pada aplikasi Xplorin</a>
-- <a href="https://play.google.com/store/apps/details?id=com.crux.tokoku">Sistem Back End untuk aplikasi Jawara Kasir</a>
+I'm a **Back End Developer**.\
+I am someone who always wants to learn new things related to technological developments and want to be part of those who bring new technologies to the world.
+I have some experience in creating several applications, among others :
+- Hospital Queue Website.
+- Employee Management Website.
+- <a href="https://play.google.com/store/apps/details?id=com.xplorinhub.app">Back End System for Hotels on the Xplorin application</a>
+- <a href="https://play.google.com/store/apps/details?id=com.crux.tokoku">Back End System for Hotels on the **Jawara Kasir - Point of Sale** application</a>
 
-Sertifikat :
+Certificate :
 - <a href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=467">IT Specialist Database - Novice</a>
 - <a href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=447">IC3 GS6 Level 1<a/>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tengku-tengku-4a919416b/) ku ya.
+Follow me on my account if you want to know more about me 
+  - [Linkedin](https://www.linkedin.com/in/tengku-tengku-4a919416b/),
+  - [Instagram](https://instagram.com/tengku_dev?igshid=ZDdkNTZiNTM=),
+  - [Whatsapp] +62 821 4585 8358
 
 <p align="left">
 <a href="https://github.com/Tengku1">
