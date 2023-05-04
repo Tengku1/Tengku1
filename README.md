@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1># Hi, My name is **Tengku** 👋 !</h1>
+<h1># Hi, My name is Tengku 👋 !</h1>
 
 I'm a **Back End Developer**.\
 I am someone who always wants to learn new things related to technological developments and want to be part of those who bring new technologies to the world.
@@ -30,7 +30,7 @@ Certificate :
 Follow me on my account if you want to know more about me 
   - [Linkedin](https://www.linkedin.com/in/tengku-tengku-4a919416b/),
   - [Instagram](https://instagram.com/tengku_dev?igshid=ZDdkNTZiNTM=),
-  - [Whatsapp](+62 821 4585 8358)
+  - Whatsapp +62 821 4585 8358
 
 <p align="left">
 <a href="https://github.com/Tengku1">
