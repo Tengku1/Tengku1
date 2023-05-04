@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1><center>Hi, My name is <b>Tengku</b> 👋</center></h1>
+<h1 align="center" style="text-shadow: 0 0 1px #EEE">Hi, My name is <b>Tengku</b> 👋</h1>
 
 <p align="center">
 <br>
