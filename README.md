@@ -67,6 +67,12 @@ Certificate :
 <h3><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=Tengku1&theme=juicyfresh&no-bg=true" />
 
+ <p align="center">
+    <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tengku1 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tengku1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p> 
+  
 <p align="center">
 <a href="https://github.com/Tengku1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tengku1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
