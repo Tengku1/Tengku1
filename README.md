@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, My name is <b>Tengku</b> 👋</h1>
-<div style="box-shadow: 5px 6px 5px 8px rgba(255,255,255,0.36);">Test</div>
 <p align="center">
 <br>
 <a href="https://instagram.com/tengku_dev?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
