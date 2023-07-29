@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, My name is <b>Tengku</b> 👋</h1>
-<marquee >Cilub Baaa</marquee >
+<marquee width="500" height="40">Teks ini berjalan</marquee>
 <p align="center">
 <br>
 <a href="https://instagram.com/tengku_dev?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
