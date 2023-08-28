@@ -12,15 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  * {
-  color:white;
-  }
-  body {
-  background-color: black;
-  }
-</style>
-<h1 align="center">Hi, My name is <b>Tengku</b> 👋</h1>
+<main style="background-color: black">
+ <h1 align="center">Hi, My name is <b>Tengku</b> 👋</h1>
 <p align="center">
 <br>
 <a href="https://instagram.com/tengku_dev?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -85,3 +78,5 @@ Certificate :
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tengku1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+</main>
