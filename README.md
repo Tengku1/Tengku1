@@ -12,7 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<style>
+  * {
+  color:white;
+  }
+  body {
+  background-color: black;
+  }
+</style>
 <h1 align="center">Hi, My name is <b>Tengku</b> 👋</h1>
 <p align="center">
 <br>
