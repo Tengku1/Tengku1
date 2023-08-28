@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<main>
  <h1 align="center">Hi, My name is <b>Tengku</b> 👋</h1>
 <p align="center">
 <br>
@@ -78,5 +77,3 @@ Certificate :
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tengku1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-</main>
