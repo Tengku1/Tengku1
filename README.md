@@ -25,7 +25,8 @@ I'm a **Back End Developer**.\
 I am someone who always wants to learn new things related to technological developments and want to be part of those who bring new technologies to the world.
 I have some experience in creating several applications, among others :
 - Hospital Queue Website.
-- Employee Management Website.
+- <a href="https://github.com/Tengku1/E-Commerce.git">E-Commerce Website.</a>
+- <a href="https://github.com/Tengku1/Managemen.git">Employee Management Website.</a>
 - <a href="https://play.google.com/store/apps/details?id=com.xplorinhub.app">Back End System for Hotels on the **Xplorin** Application</a>
 - <a href="https://play.google.com/store/apps/details?id=com.crux.tokoku">Back End System for **Jawara Kasir - Point of Sale Application**</a>
 - <a href="https://github.com/ichwansh03/AXA-SmartDrive">Contribute to Create **Smart Drive Application**</a>
