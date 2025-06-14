@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCs7lb6o067vuqMbszIvrIow"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-I'm a **Back End Developer**.\
+I'm a **Full Stack Developer**.\
 I am someone who always wants to learn new things related to technological developments and want to be part of those who bring new technologies to the world.
 I have some experience in creating several applications, among others :
 - Hospital Queue Website.
