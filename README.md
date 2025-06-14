@@ -65,6 +65,10 @@ Certificate :
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"></a>
 <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></a>
+
+<h3><b>Operating System</b></h3>
+<a href="https://archlinux.org/"><img alt="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
+<a href="https://archlinux.org/"><img alt="https://img.shields.io/badge/Arch%20Linux-%230C8BDC?style=for-the-badge&logo=arch-linux&logoColor=white"></a> 
   
 <h3><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=Tengku1&theme=juicyfresh&no-bg=true" />
