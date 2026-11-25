@@ -22,12 +22,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="./assets/developer-space.gif" width="553" alt="Pixel-art astronaut drifting through a neon digital galaxy beside a ringed planet" />
-  <br />
-  <sub>Exploring the universe, one line of code at a time.</sub>
-</div>
-
 ## About
 
 I'm a **Full-Stack Developer** focused on building and maintaining reliable applications—from backend services and data models to user-facing experiences.
