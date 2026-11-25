@@ -77,7 +77,7 @@ Thesis: *Development of a Mobile-Based Hotel Room Booking Information System*
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tengku1&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Tengku's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tengku1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Tengku's GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tengku1&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Tengku's most used languages" />
 </div>
 
